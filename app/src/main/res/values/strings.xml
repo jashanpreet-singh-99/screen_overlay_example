@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Screen Overlay Example</string>
+    <string name="app_icon">Application Logo</string>
 </resources>
